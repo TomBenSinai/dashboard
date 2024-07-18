@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.adcb40c2.css",
-    "main.js": "/your-repo-name/static/js/main.f675b83f.js",
-    "static/js/453.5ab12713.chunk.js": "/your-repo-name/static/js/453.5ab12713.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.adcb40c2.css.map": "/your-repo-name/static/css/main.adcb40c2.css.map",
-    "main.f675b83f.js.map": "/your-repo-name/static/js/main.f675b83f.js.map",
-    "453.5ab12713.chunk.js.map": "/your-repo-name/static/js/453.5ab12713.chunk.js.map"
+    "main.css": "/dashboard/static/css/main.adcb40c2.css",
+    "main.js": "/dashboard/static/js/main.fd59cff9.js",
+    "static/js/453.5ab12713.chunk.js": "/dashboard/static/js/453.5ab12713.chunk.js",
+    "index.html": "/dashboard/index.html",
+    "main.adcb40c2.css.map": "/dashboard/static/css/main.adcb40c2.css.map",
+    "main.fd59cff9.js.map": "/dashboard/static/js/main.fd59cff9.js.map",
+    "453.5ab12713.chunk.js.map": "/dashboard/static/js/453.5ab12713.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adcb40c2.css",
-    "static/js/main.f675b83f.js"
+    "static/js/main.fd59cff9.js"
   ]
 }
